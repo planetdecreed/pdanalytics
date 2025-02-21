@@ -1,2 +1,1 @@
-# pdanalytics
-Decred bugbounty POC
+# Decred bugbounty POC
